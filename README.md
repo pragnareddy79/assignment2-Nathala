@@ -8,8 +8,9 @@ The ooty is the **coolest place** and it has many tea factories and coffee facto
 # Directions for my favourite place
 1. Firstly, my favourite is in india so we book a flight and reach the place Hyderabad.
 2. From hyderbad we going reach banglore and then from the next stop place would be mysore.
+
                 1. In mysore we can also visit various places like mysore place.
-                
+
                 2.Brindavan Gardens.
 
                 3.  Chamundeshwari Temple.
