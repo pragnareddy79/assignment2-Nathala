@@ -15,9 +15,13 @@ The ooty is the **coolest place** and it has many tea factories and coffee facto
 
                 3.Chamundeshwari Temple.
 3. The distance from mysore to ooty would be around 125km.
+                
                 1.Avalanche Lake
 
                 2.Ooty Lake
 
                 3.Doddabetta peak
+* The main we need to carry the music system.
+* Play cards.
+* Snacks.
 
