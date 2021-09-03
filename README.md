@@ -8,8 +8,10 @@ The ooty is the **coolest place** and it has many tea factories and coffee facto
 # Directions for my favourite place
 1. Firstly, my favourite is in india so we book a flight and reach the place Hyderabad.
 2. From hyderbad we going reach banglore and then from the next stop place would be mysore.
-                1. In mysore we can also visit various places like mysore place.\n
-                2.Brindavan Gardens.\n
-                3.  Chamundeshwari Temple.\n
+                1. In mysore we can also visit various places like mysore place.
+                
+                2.Brindavan Gardens.
+
+                3.  Chamundeshwari Temple.
 3. The distance from mysore to ooty would be around 125km.
 
