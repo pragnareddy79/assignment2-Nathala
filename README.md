@@ -27,3 +27,14 @@ The ooty is the **coolest place** and it has many tea factories and coffee facto
 * Snacks.
 
 [click here to view my aboutme page](https://github.com/pragnareddy79/assignment2-Nathala/blob/main/AboutMe.md)
+
+****
+
+# Below are the Food/Drinks that I recommend
+In the below table I am going to describe about two food items and two drink items.
+| Item Name  | Location | Amount |
+| --- | --- | ---: |
+| Haleem | Hyderabad House | 10 |
+| Birayani | Ruchi | 12 |
+| oreo milkshake | Mc Donald's| 4 |
+| Mango Lassi | Bawarchi | 3 
