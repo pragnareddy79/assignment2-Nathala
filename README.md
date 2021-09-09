@@ -25,5 +25,5 @@ The ooty is the **coolest place** and it has many tea factories and coffee facto
 * The main we need to carry the music system.
 * Play cards.
 * Snacks.
-* 
+
 [click hereto bview my aboutme page] (https://github.com/pragnareddy79/assignment2-Nathala/blob/main/AboutMe.md)
