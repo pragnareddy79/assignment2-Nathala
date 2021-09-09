@@ -42,5 +42,6 @@ In the below table I am going to describe about two food items and two drink ite
 ****
 
 # Quotes
-> The purpose of our lifes is to be happy *Seneca
-> Not how long but how well you have lived is the main thing *Dalai Lama
+> The purpose of our lifes is to be happy *Seneca*
+
+> Not how long but how well you have lived is the main thing *Dalai Lama*
