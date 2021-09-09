@@ -37,4 +37,10 @@ In the below table I am going to describe about two food items and two drink ite
 | Haleem | Hyderabad House | 10 |
 | Birayani | Ruchi | 12 |
 | oreo milkshake | Mc Donald's| 4 |
-| Mango Lassi | Bawarchi | 3 
+| Mango Lassi | Bawarchi | 3 |
+
+****
+
+# Quotes
+> The purpose of our lifes is to be happy *Seneca
+> Not how long but how well you have lived is the main thing *Dalai Lama
