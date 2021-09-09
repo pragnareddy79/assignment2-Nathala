@@ -26,4 +26,4 @@ The ooty is the **coolest place** and it has many tea factories and coffee facto
 * Play cards.
 * Snacks.
 
-[click hereto bview my aboutme page](https://github.com/pragnareddy79/assignment2-Nathala/blob/main/AboutMe.md)
+[click here to view my aboutme page](https://github.com/pragnareddy79/assignment2-Nathala/blob/main/AboutMe.md)
